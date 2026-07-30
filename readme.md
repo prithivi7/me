@@ -1,4 +1,7 @@
 <html>
+  <style>
+h1 {text-align: center;}
+    </style
   <body>
     <h1> Hello
 <a href="https://example.com">Click Here</a>
