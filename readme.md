@@ -9,6 +9,10 @@
   <rect width="200" height="100" x="10" y="10" rx="20" ry="20" fill="blue" />
   Sorry, your browser does not support inline SVG.  
 </svg>
- 
+
+
+ <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+  <image height="200" width="300" href="pulpitrock.jpg" />
+</svg>
   </body>
 </html>
