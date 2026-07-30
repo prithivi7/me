@@ -1,13 +1,17 @@
 <html>
-  <style>
-h1 {text-align: center;}
-    </style
+
   <body>
-    <h1> Hello
+    <h1> Hello </h1>
 <a href="https://example.com">Click Here</a>
 <br> 
       <h2>SVG rect Element</h2>
 
+
+      
+<center>
+  This text will be centered.
+  <p>So will this paragraph.</p>
+</center>
 <svg width="300" height="130" xmlns="http://www.w3.org/2000/svg">
   <rect width="200" height="100" x="10" y="10" rx="20" ry="20" fill="blue" />
   Sorry, your browser does not support inline SVG.  
