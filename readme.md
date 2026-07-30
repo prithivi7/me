@@ -14,5 +14,14 @@
  <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
   <image height="200" width="300" href="pulpitrock.jpg" />
 </svg>
+
+
+<svg height="250" width="300" xmlns="http://www.w3.org/2000/svg">
+  <circle r="105" cx="150" cy="120" fill="lightblue" />
+  <image x="0" y="60" width="300" height="100" href="pulpitrock.jpg" />
+  <text x="84" y="180" fill="black">Pulpit Rock, Norway</text>
+</svg>
+
+
   </body>
 </html>
