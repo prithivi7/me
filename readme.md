@@ -2,8 +2,8 @@
 
   <body>
     <h1> Hello </h1>
-    <h1> Prithiviraj Krishnakumar </h1>
-<a href="https://example.com">Click Here</a>
+    <h1> Its Me Prithiviraj Krishnakumar </h1>
+<a href="https://example.com">Simplified</a>
 <br> 
       <h2>SVG rect Element</h2>
 
