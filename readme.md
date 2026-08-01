@@ -14,6 +14,8 @@ Configuration Management - Observability as Code
 <h4> ITSI Splunk ES </h4>
 <h4> Threat Intelligence </h4>
 <h4> Analysis Investigation Threat Hunting</h4>
+    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
   </body>
 </html>
  
