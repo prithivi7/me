@@ -8,7 +8,7 @@
 <h3> Storage :  Commercial tools, Big Data bases & Data Lakes</h3> Big Data Compute : Apache Spark , Databricks Hive GPU utilization
 <a href="https://github.com/prithivi7/me/tree/main/Security%20%26%20SIEM%20"> SIEM </a>
 Configuration Management - Observability as Code
-<h2> Ingestion | Observability ( Synthetics, Web Browser Synthetics) | Security SIEM | Devsecops Agentic AIOPS ITOM </h2>
+<h4> Ingestion | Observability ( Synthetics, Web Browser Synthetics) | Security SIEM | Devsecops Agentic AIOPS ITOM </h4>
 <h3> Standards & Patters </h3>
 <h3> Threat Modeling </h3>
 <h3> ITSI Splunk ES </h3>
