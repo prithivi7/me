@@ -9,11 +9,11 @@
 <a href="https://github.com/prithivi7/me/tree/main/Security%20%26%20SIEM%20"> SIEM </a>
 Configuration Management - Observability as Code
 <h4> Ingestion | Observability ( Synthetics, Web Browser Synthetics) | Security SIEM | Devsecops Agentic AIOPS ITOM </h4>
-<h3> Standards & Patters </h3>
-<h3> Threat Modeling </h3>
-<h3> ITSI Splunk ES </h3>
-<h3> Threat Intelligence </h3>
-<h3> Analysis Investigation Threat Hunting</h3>
+<h4> Standards & Patters </h4>
+<h4> Threat Modeling </h4>
+<h4> ITSI Splunk ES </h4>
+<h4> Threat Intelligence </h4>
+<h4> Analysis Investigation Threat Hunting</h4>
   </body>
 </html>
  
