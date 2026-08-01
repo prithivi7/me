@@ -14,11 +14,14 @@
   This text will be centered.
   <p>So will this paragraph.</p>
 </center>
-<svg width="300" height="130" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="100" x="10" y="10" rx="20" ry="20" fill="blue" />
-  Sorry, your browser does not support inline SVG.  
-</svg>
 
+Configuration Management - Observability as Code
+<h1> Ingestion | Observability ( Synthetics, Web Browser Synthetics) | Security SIEM | Devsecops Agentic AIOPS ITOM </h1>
+<h1> Standards & Patters </h1>
+<h1> Threat Modeling </h1>
+<h1> ITSI Splunk ES </h1>
+<h1> Threat Intelligence </h1>
+<h1> Analysis Investigation Threat Hunting</h1>
 
  <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
   <image height="200" width="300" href="pulpitrock.jpg" />
