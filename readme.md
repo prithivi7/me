@@ -9,11 +9,6 @@
 
 
 <a href="https://github.com/prithivi7/me/tree/main/Security%20%26%20SIEM%20"> SIEM </a>
-      
-<center>
-  This text will be centered.
-  <p>So will this paragraph.</p>
-</center>
 
 Configuration Management - Observability as Code
 <h1> Ingestion | Observability ( Synthetics, Web Browser Synthetics) | Security SIEM | Devsecops Agentic AIOPS ITOM </h1>
