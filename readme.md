@@ -16,6 +16,8 @@ Configuration Management - Observability as Code
 <h4> Analysis Investigation Threat Hunting</h4>
     ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+    <img width="402" height="82" alt="Image" src="https://github.com/user-attachments/assets/e637d1a0-f469-4704-9ea6-6a0c50a9ffa5" />
+
   </body>
 </html>
  
